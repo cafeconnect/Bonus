@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Your own server",
+            "request": "launch",
+            "type": "al",
+            //"environmentType": "OnPrem",
+            "server": "http://localhost:8080/DEMO",
+            "serverInstance": "DEMO",
+            "authentication": "Windows",
+            "startupObjectId": 60102,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "tenant": "default",
+            "breakOnNext":"webclient",
+            "breakOnError": true,
+            "schemaUpdateMode": "ForceSync"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "19867177-8df1-4188-bb7b-996132502738",
+  "name": "Bonus Setup",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "This is a brief page",
+  "description": "Description page",
+  "privacyStatement": "http://my.blog.com/privacy",
+  "EULA": "http://my.blog.com/eula",
+  "help": "http://my.blog.com/help",
+  "url": "http://my.blog.com/url",
+  "logo": "C:\\Users\\MathewChelelgoMoroko\\OneDrive - Agile Business Solutions\\SOURCECODES\\Bonus Setup\\images\\mazda.jpg",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 60100,
+      "to": 60149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "8.0"
+}
