@@ -35,6 +35,11 @@ page 60102 "MNB Bonus Card"
                     ApplicationArea = All;
                     ToolTip = 'Specifies bonus status.';
                 }
+                field(Game; Rec.Status)
+                {
+                    ApplicationArea = All;
+                    ToolTip = 'Specifies bonus status.';
+                }
             }
         }
     }

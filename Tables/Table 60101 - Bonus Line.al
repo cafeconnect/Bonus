@@ -28,12 +28,7 @@ table 60101 "MNB Bonus Line"
             MinValue = 0;
             MaxValue = 100;
         }
-        field(5; "Bonus."; Integer)
-        {
-            DataClassification = CustomerContent;
-            Caption = 'Bonus.';
 
-        }
     }
     keys
     {

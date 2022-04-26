@@ -44,6 +44,11 @@ page 60105 "MNB Bonus Entries"
                     ApplicationArea = All;
                     ToolTip = 'Specifies calculated bonus amount.';
                 }
+                field("B"; Rec."Bonus Amount")
+                {
+                    ApplicationArea = All;
+                    ToolTip = 'Specifies calculated bonus amount.';
+                }
             }
         }
     }
