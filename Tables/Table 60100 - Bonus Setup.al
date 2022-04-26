@@ -15,6 +15,12 @@ table 60100 "MNB BonusSetup"
             DataClassification = CustomerContent;
             TableRelation = "No. Series";
         }
+        field(3; "Entry No."; Code[20])
+        {
+            Caption = 'Entry No.';
+            DataClassification = CustomerContent;
+
+        }
     }
     keys
     {
